@@ -1,4 +1,3 @@
 Java Selenium
 TestNG
-Maven
-git
+MavenChrome
